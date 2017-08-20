@@ -1,2 +1,2 @@
 # python_practice
-A repo for python practice
+A repository for python practice
